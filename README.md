@@ -5,6 +5,6 @@ ms to manage credits
 add the environment variables to MscreditsApplication
 
 ```
-MONGODB_URL=mongodb+srv://token_user:j5SPy8RZ5bgHgN4T@cluster0.clihz.mongodb.net/?retryWrites=true&w=majority;MONGODB_DATABASE=bootcamp-project
+MONGODB_URL=mongodb+srv://user:pwd@cluster/?retryWrites=true&w=majority;MONGODB_DATABASE=db
 ```
 
