@@ -22,7 +22,6 @@ public class CreditsController {
 
   @PostMapping("/createCreditCard")
   public Mono<Credit> createCreditCard(@RequestBody CreditRequest request) {
-    // Credit credit = new Credit(request);
     System.out.println(">>CreditResource=> createCard ");
     return service.createCredit(request);
   }

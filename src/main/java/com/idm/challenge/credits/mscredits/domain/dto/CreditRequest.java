@@ -21,6 +21,6 @@ public record CreditRequest (
     @Field(targetType = FieldType.DECIMAL128)
     BigDecimal percentageInterestRate,
     int quotes,
-    boolean active,
-    LoanDebt loanDebt
+    boolean active
+    //LoanDebt loanDebt
 ) {}

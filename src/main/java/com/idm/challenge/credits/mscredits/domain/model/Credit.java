@@ -27,6 +27,6 @@ public class Credit {
     @Field(targetType = FieldType.DECIMAL128)
     private BigDecimal percentageInterestRate;
     private int quotes;
-    private LoanDebt loanDebt;
+    //private LoanDebt loanDebt;
     private boolean active;
 }

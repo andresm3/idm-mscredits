@@ -78,7 +78,6 @@ public class CreditServiceImpl implements CreditService {
         .creditBalance(request.creditBalance())
         .type(request.type())
         .client(request.client())
-        .loanDebt(request.loanDebt())
         .number(request.number())
         .creditCard(request.creditCard())
         .build();
