@@ -1,0 +1,14 @@
+F:\TI_JOBS\workspace\challenges\idm\idm-mscredits\src\main\java\com\idm\challenge\credits\mscredits\controller\CreditsController.java
+F:\TI_JOBS\workspace\challenges\idm\idm-mscredits\src\main\java\com\idm\challenge\credits\mscredits\domain\dto\CreditRequest.java
+F:\TI_JOBS\workspace\challenges\idm\idm-mscredits\src\main\java\com\idm\challenge\credits\mscredits\domain\model\Client.java
+F:\TI_JOBS\workspace\challenges\idm\idm-mscredits\src\main\java\com\idm\challenge\credits\mscredits\domain\model\Credit.java
+F:\TI_JOBS\workspace\challenges\idm\idm-mscredits\src\main\java\com\idm\challenge\credits\mscredits\domain\model\LoanDebt.java
+F:\TI_JOBS\workspace\challenges\idm\idm-mscredits\src\main\java\com\idm\challenge\credits\mscredits\exception\CustomInformationException.java
+F:\TI_JOBS\workspace\challenges\idm\idm-mscredits\src\main\java\com\idm\challenge\credits\mscredits\exception\CustomNotFoundException.java
+F:\TI_JOBS\workspace\challenges\idm\idm-mscredits\src\main\java\com\idm\challenge\credits\mscredits\MscreditsApplication.java
+F:\TI_JOBS\workspace\challenges\idm\idm-mscredits\src\main\java\com\idm\challenge\credits\mscredits\repository\CreditRepository.java
+F:\TI_JOBS\workspace\challenges\idm\idm-mscredits\src\main\java\com\idm\challenge\credits\mscredits\repository\CustomCreditRepository.java
+F:\TI_JOBS\workspace\challenges\idm\idm-mscredits\src\main\java\com\idm\challenge\credits\mscredits\repository\impl\CustomCreditRepositoryImpl.java
+F:\TI_JOBS\workspace\challenges\idm\idm-mscredits\src\main\java\com\idm\challenge\credits\mscredits\service\CreditService.java
+F:\TI_JOBS\workspace\challenges\idm\idm-mscredits\src\main\java\com\idm\challenge\credits\mscredits\service\impl\CreditServiceImpl.java
+F:\TI_JOBS\workspace\challenges\idm\idm-mscredits\src\main\java\com\idm\challenge\credits\mscredits\utils\Constants.java

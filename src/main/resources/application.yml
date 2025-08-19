@@ -1,0 +1,9 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: mscredits
+  data:
+    mongodb:
+      uri: ${MONGODB_URL}
+      database: ${MONGODB_DATABASE}
